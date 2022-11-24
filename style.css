@@ -1,0 +1,24 @@
+body {
+    background-color: #3b444b;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+}
+
+img {
+    border-radius: 100px;
+}
+
+p {
+    border-bottom: 1px solid white;
+}
+
+a {
+    color: whitesmoke;
+
+}
+
+a:hover {
+    background-color: purple;
+    color: #eee;
+  }

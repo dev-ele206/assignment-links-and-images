@@ -1,2 +1,2 @@
-# assignment-links-and-images
-Brainnest Links and images HTML &amp; CSS assignment
+# links-and-images
+ HTML practice for Brainnest Front end development training
